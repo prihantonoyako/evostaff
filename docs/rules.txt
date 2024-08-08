@@ -1,0 +1,12 @@
+type g
+
+v0 = user_id
+v1 = role_id
+v2 = domain_id
+
+type p
+
+v0 = role_id
+v1 = domain_id
+v2 = route_id
+v3 = permission_id

@@ -159,6 +159,7 @@ return [
         /*
          * Package Service Providers...
          */
+        // Lauthz\LauthzServiceProvider::class,
 
         /*
          * Application Service Providers...
